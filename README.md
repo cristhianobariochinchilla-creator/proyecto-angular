@@ -1,3 +1,10 @@
+## elegir un framework css
+( eligi Bootstrap )
+
+## descarga de templey
+el templey fue descargada de la pagina de templey bootstrap (https://codeload.github.com/StartBootstrap/startbootstrap-agency/zip/refs/heads/gh-pages)
+la licencia de uso es gratuita =The MIT License (MIT)
+
 # ProyectoAngular
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.1.
@@ -58,5 +65,4 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
 
-## elegir un framework css
-( eligi Bootstrap )
+
